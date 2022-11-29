@@ -3,7 +3,7 @@ public class Main {
 
         System.out.println("Hello world!");
         Schiffeversenken schiffeversenken = new Schiffeversenken();
-        
+
     }
 
 }
