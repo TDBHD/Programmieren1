@@ -1,9 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-
-        System.out.println("Hello world!");
-        Schiffeversenken schiffeversenken = new Schiffeversenken();
-
+    Schiffeversenken schiffeversenken = new Schiffeversenken();
+    schiffeversenken.spielfeld();
     }
 
 }
