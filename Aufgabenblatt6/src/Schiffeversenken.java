@@ -14,6 +14,7 @@ public class Schiffeversenken {
 
         for (int zeile = 0; zeile < breite; zeile++) {
 
+
         }
     }
 }
